@@ -187,11 +187,6 @@ body {
 .hero-btn:focus {
     background: #404BBF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
-
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 19px;
     color: #FFFFFF;
 }
 
